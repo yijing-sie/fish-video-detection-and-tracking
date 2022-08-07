@@ -2,4 +2,6 @@
 
 Using Google colab for detection and tracking on videos from re-trained models is slow, so this is only for demonstration.
 
+[View on Jupyter nbviewer](https://nbviewer.org/github/yijing-sie/fish-video-detection-with-colab-tf1/blob/main/fish_detection_with_colab_tf1.ipynb)
+
 
