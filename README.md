@@ -1,6 +1,6 @@
 # This repository shows how to employ Google Colab pro to re-train pre-trained Google's Object Detection API using Tensorflow 1.x
 
-Using Google colab for detection and tracking on videos from re-trained models is slow, so this is only a demonstration of fish video detection on Google colab.
+Using Google Colab for detection and tracking on videos from re-trained models is slow, so this is only a demonstration of fish video detection on Google colab.
 
 [Open on Google Colab](https://colab.research.google.com/drive/144IsyG8X_CBeqDgeFheK76XWIB-5CO1O?usp=sharing)
 
