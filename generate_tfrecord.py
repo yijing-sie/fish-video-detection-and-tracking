@@ -58,7 +58,7 @@ def create_tf_example(group, path):
             xmaxs.append(row['x_max'] / width)
             ymins.append(row['y_min'] / height)
             ymaxs.append(row['y_max'] / height)
-            classes_text.append('fish')
+            classes_text.append('fish'.encode('utf8'))
             classes.append(1)
 
     tf_example = tf.train.Example(features=tf.train.Features(feature={
