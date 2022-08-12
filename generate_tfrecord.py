@@ -1,3 +1,4 @@
+#based on https://github.com/datitran/raccoon_dataset/blob/master/generate_tfrecord.py
 """
 Usage:
   # Create data:
