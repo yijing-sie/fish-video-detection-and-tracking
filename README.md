@@ -8,5 +8,5 @@ Using Google Colab for detection and tracking on videos from re-trained models i
 
 I make use of some of the code from [datitran's github](https://github.com/datitran/raccoon_dataset/blob/master/generate_tfrecord.py) to create [generate_tfrecord.py](generate_tfrecord.py) that will be used to convert .csv to .record files for the fish dataset
 
-https://user-images.githubusercontent.com/84282744/185066738-daacf7f0-c74c-4d90-ab06-b8e8395bddf4.mp4
+
 
